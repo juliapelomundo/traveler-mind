@@ -43,4 +43,4 @@ To explore the personalized travel-planning experience, create a free account on
 
 ## Project
 
-** Prototype:** https://travelermind.base44.app
+**Prototype:** https://travelermind.base44.app
