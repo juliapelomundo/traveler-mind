@@ -4,7 +4,7 @@
 
 ## 🌎 Product Prototype
 
-**[Try Traveler Mind →](https://travelermind.base44.app)**
+[**Try Traveler Mind →**](https://travelermind.base44.app/)
 
 ## What is Traveler Mind?
 
@@ -20,7 +20,7 @@ I started building Traveler Mind to explore a more personalized approach to trav
 
 ## What I Built
 
-I built a functional prototype that uses AI to transform a traveler's preferences and constraints into a personalized itinerary.
+I built a functional product prototype with Base44 that uses AI to transform a traveler's preferences and constraints into a personalized itinerary.
 
 The platform focuses on:
 
@@ -39,8 +39,8 @@ To explore the personalized travel-planning experience, create a free account on
 ## Technology
 
 * **Base44** — used to build the product prototype
-* **AI** — core product functionality
+* **AI-powered itinerary generation** — core product functionality
 
 ## Project
 
-**Product:** [Traveler Mind →](https://travelermind.base44.app)
+**Product:** [Traveler Mind →](https://travelermind.base44.app/)
