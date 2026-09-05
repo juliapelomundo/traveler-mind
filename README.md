@@ -2,7 +2,7 @@
 
 > AI-powered personalized travel planning.
 
-## 🌎 Live Demo
+## 🌎 Product Prototype
 
 **[Try Traveler Mind →](https://travelermind.base44.app)**
 
@@ -20,27 +20,27 @@ I started building Traveler Mind to explore a more personalized approach to trav
 
 ## What I Built
 
-I developed a working prototype that uses AI to help transform a traveler's preferences and constraints into a personalized itinerary.
+I built a functional prototype that uses AI to transform a traveler's preferences and constraints into a personalized itinerary.
 
 The platform focuses on:
 
-- Budget
-- Trip duration
-- Interests
-- Personalized recommendations
-- Itinerary planning
+* Budget
+* Trip duration
+* Interests
+* Personalized recommendations
+* Itinerary planning
 
 ## Current Stage
 
-Prototype — currently developing built with Base 44 and testing the product while exploring how to improve the experience based on user needs and behavior.
+**Prototype** — currently being developed with Base44 and tested while I explore how to improve the experience based on user needs and behavior.
 
 To explore the personalized travel-planning experience, create a free account on the platform.
 
 ## Technology
 
-- Base44
-- AI
+* **Base44** — used to build the product prototype
+* **AI** — core product functionality
 
 ## Project
 
-**Prototype:** https://travelermind.base44.app
+**Product:** [Traveler Mind →](https://travelermind.base44.app)
