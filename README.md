@@ -32,7 +32,9 @@ The platform focuses on:
 
 ## Current Stage
 
-Prototype — currently developing and testing the product while exploring how to improve the experience based on user needs and behavior.
+Prototype — currently developing built with Base 44 and testing the product while exploring how to improve the experience based on user needs and behavior.
+
+To explore the personalized travel-planning experience, create a free account on the platform.
 
 ## Technology
 
@@ -41,4 +43,4 @@ Prototype — currently developing and testing the product while exploring how t
 
 ## Project
 
-**Live prototype:** https://travelermind.base44.app
+** Prototype:** https://travelermind.base44.app
